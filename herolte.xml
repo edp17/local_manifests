@@ -8,7 +8,7 @@
 <project name="edp17/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" revision="cm-14.1" />
 <project name="edp17/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" revision="cm-14.1" />
 <project name="edp17/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" revision="cm-14.1" />
-<project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1" />
+<project name="edp17/proprietary_vendor_samsung" path="vendor/samsung/hero-common" revision="cm-14.1" />
 <project name="edp17/droid-hal-herolte" path="rpm/" revision="master" />
 <project name="edp17/droid-config-herolte" path="hybris/droid-configs" revision="master" />
 <project name="edp17/droid-hal-version-herolte" path="hybris/droid-hal-version-herolte" revision="master" />
