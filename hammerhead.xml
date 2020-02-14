@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/lge/hammerhead" name="edp17/android_device_lge_hammerhead" revision="cm-12.1" />
+<project path="kernel/lge/hammerhead" name="edp17/android_kernel_lge_hammerhead" revision="hybris-12.1-edp17" />
+<project path="rpm/" name="edp17/droid-hal-hammerhead" revision="master" />
+<project path="hybris/droid-configs" name="edp17/droid-config-hammerhead" revision="master" />
+<project path="hybris/droid-hal-version-hammerhead" name="edp17/droid-hal-version-hammerhead" revision="master" />
+</manifest>
