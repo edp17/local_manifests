@@ -7,5 +7,5 @@
 <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-12.1" />
 <project path="rpm/" name="edp17/droid-hal-i9100" revision="master" />
 <project path="hybris/droid-configs" name="edp17/droid-config-i9100" revision="master" />
-<project path="hybris/droid-hal-version-herolte" name="edp17/droid-hal-version-i9100" revision="master" />
+<project path="hybris/droid-hal-version-i9100" name="edp17/droid-hal-version-i9100" revision="master" />
 </manifest>
