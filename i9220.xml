@@ -5,4 +5,7 @@
 <project name="edp17/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" revision="cm-14.1" remote="github" />
 <project name="LineageOs/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" remote="github" />
 <project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1-i9220" remote="github" />
+<project name="edp17/droid-hal-n7000" path="rpm/" revision="master" />
+<project name="edp17/droid-config-n7000" path="hybris/droid-configs" revision="master" />
+<project name="edp17/droid-hal-version-n7000" path="hybris/droid-hal-version-n7000" revision="master" />
 </manifest>
