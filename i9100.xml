@@ -4,9 +4,8 @@
 <project name="edp17/android_kernel_samsung_smdk4412" path="kernel/samsung/i9100" revision="cm-14.1" />
 <project name="edp17/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" revision="cm-14.1" remote="github" />
 <project name="LineageOs/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" />
-<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1" />
-<!--<project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1-i9100" />-->
-<!--<project path="rpm/" name="edp17/droid-hal-i9100" revision="cm-14.1" />-->
-<!--<project path="hybris/droid-configs" name="edp17/droid-config-i9100" revision="cm-14.1" />-->
-<!--<project path="hybris/droid-hal-version-i9100" name="edp17/droid-hal-version-i9100" revision="cm-14.1" />-->
+<project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1-i9100" />
+<project path="rpm/" name="edp17/droid-hal-i9100" revision="cm-14.1" />
+<project path="hybris/droid-configs" name="edp17/droid-config-i9100" revision="cm-14.1" />
+<project path="hybris/droid-hal-version-i9100" name="edp17/droid-hal-version-i9100" revision="cm-14.1" />
 </manifest>
