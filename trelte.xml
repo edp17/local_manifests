@@ -4,6 +4,7 @@
 <project name="edp17/android_device_samsung_treltexx" path="device/samsung/treltexx" revision="cm-14.1" remote="github"/>
 <project name="edp17/android_device_samsung_trelte-common" path="device/samsung/trelte-common" revision="cm-14.1" remote="github"/>
 <project name="edp17/hybris-boot" path="hybris/hybris-boot" revision="cm-14.1-treltexx" remote="github"/>
+<project name="edp17/android" path=".repo/manifests" revision="hybris-14.1" remote="github"/>
 <project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1-treltexx" remote="github" />
 <project name="edp17/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" revision="cm-14.1" remote="github"/>
 <project name="dl12345/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" revision="cm-14.1" remote="github"/>
