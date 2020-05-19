@@ -3,6 +3,7 @@
 <project name="edp17/android_device_samsung_i9100" path="device/samsung/i9100" revision="cm-12.1" />
 <project name="edp17/android_kernel_samsung_smdk4412" path="kernel/samsung/i9100" revision="cm-12.1-mtpfix" />
 <project name="edp17/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" revision="cm-12.1" remote="github" />
+<project name="edp17/hybris-boot" path="hybris/hybris-boot" revision="cm-12.1-i9100" remote="github" />
 <project name="LineageOs/android_hardware_samsung" path="hardware/samsung" revision="cm-12.1" />
 <project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-12.1-i9100" />
 <project path="rpm/" name="edp17/droid-hal-i9100" revision="master" />
