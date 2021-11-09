@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="edp17/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" revision="lineage-17.1" remote="github"/>
+<project name="universal5433/android_device_samsung_treltexx" path="device/samsung/treltexx" revision="lineage-17.1" remote="github"/><!--update-->
+<project name="universal5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" revision="lineage-17.1" remote="github"/><!--update-->
+<project name="edp17/hybris-boot" path="hybris/hybris-boot" revision="lineage-17.1-treltexx" remote="github"/>
+<project name="universal5433/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-17.1" remote="github" /> <!--update-->
+<project name="edp17/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" revision="lineage-17.1" remote="github"/>
+<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/>
+<project name="edp17/droid-hal-treltexx" path="rpm/" revision="master" />
+<project name="edp17/droid-config-treltexx" path="hybris/droid-configs" revision="master" />
+<project name="edp17/droid-hal-version-treltexx" path="hybris/droid-hal-version-treltexx" revision="master" />
+<!--??<project name="mer-hybris/android" path=".repo/manifests" revision="hybris-17.1" remote="github"/>--> <!--update-->
+<!--??<project name="dl12345/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" revision="cm-14.1" remote="github"/>-->
+<!--??<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" revision="cm-14.1" remote="github"/>-->
+<!--??<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" revision="cm-14.1" remote="github"/>-->
+<!--??<project name="LineageOS/android_external_stlport" path="external/stlport" revision="cm-14.1" remote="github"/>-->
+</manifest>
