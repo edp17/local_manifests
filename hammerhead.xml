@@ -5,4 +5,5 @@
 <project path="rpm/" name="edp17/droid-hal-hammerhead" revision="master" />
 <project path="hybris/droid-configs" name="edp17/droid-config-hammerhead" revision="master" />
 <project path="hybris/droid-hal-version-hammerhead" name="edp17/droid-hal-version-hammerhead" revision="master" />
+<project path="rpm/" name="edp17/droid-hal-hammerhead" revision="sfos4" />
 </manifest>
