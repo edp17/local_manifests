@@ -9,7 +9,7 @@
 <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/>
 <project name="edp17/droid-hal-treltexx" path="rpm/" revision="lineage-17.1" />
 <project name="edp17/droid-config-treltexx" path="hybris/droid-configs" revision="lineage-17.1" />
-<project name="edp17/droid-hal-version-treltexx" path="hybris/droid-hal-version-treltexx" revision="master" />
+<project name="edp17/droid-hal-version-treltexx" path="hybris/droid-hal-version-treltexx" revision="lineage-17.1" />
 <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" revision="lineage-17.1" remote="github"/>
 <project name="LineageOS/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" revision="lineage-17.1" remote="github"/>
 <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" revision="lineage-17.1" remote="github"/>
