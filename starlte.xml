@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Device tree-->
+<project name="edp17/android_device_samsung_starlte" path="device/samsung/starlte" revision="lineage-17.1" remote="github"/>
+<project name="edp17/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="lineage-17.1" remote="github"/>
+<!--Kernel-->
+<project name="edp17/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="lineage-17.1" remote="github"/>
+<!--Hardware-->
+<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/> <!--once downloaded, load into edp17-->
+<!--Sailfish-->
+<!--<project name="edp17/droid-hal-starlte" path="rpm/" revision="lineage-17.1" />-->
+<!--<project name="edp17/droid-config-starlte" path="hybris/droid-configs" revision="lineage-17.1" />-->
+<!--<project name="edp17/droid-hal-version-starlte" path="hybris/droid-hal-version-starlte" revision="lineage-17.1" />-->
+<!--Blobs-->
+<project name="edp17/android_vendor_samsung_universal9810-common" path="vendor/samsung/exynos9810-common" revision="lineage-17.1" remote="github"/>
+<project name="edp17/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="lineage-17.1" remote="github"/>
+<!--<project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-17.1-treltexx" remote="github" />-->
+<!--Common Sepolicy-->
+<project name="edp17/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-17.1" remote="github"/>
+</manifest>
