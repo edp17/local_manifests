@@ -8,9 +8,9 @@
 <!--Hardware-->
 <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/> <!--once downloaded, load into edp17-->
 <!--Sailfish-->
-<!--<project name="edp17/droid-hal-starlte" path="rpm/" revision="lineage-17.1" />-->
-<!--<project name="edp17/droid-config-starlte" path="hybris/droid-configs" revision="lineage-17.1" />-->
-<!--<project name="edp17/droid-hal-version-starlte" path="hybris/droid-hal-version-starlte" revision="lineage-17.1" />-->
+<project name="edp17/droid-hal-starlte" path="rpm/" revision="master" />
+<project name="edp17/droid-config-starlte" path="hybris/droid-configs" revision="master" />
+<project name="edp17/droid-hal-version-starlte" path="hybris/droid-hal-version-starlte" revision="master" />
 <!--Blobs-->
 <project name="edp17/android_vendor_samsung_universal9810-common" path="vendor/samsung/exynos9810-common" revision="lineage-17.1" remote="github"/>
 <project name="edp17/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="lineage-17.1" remote="github"/>
