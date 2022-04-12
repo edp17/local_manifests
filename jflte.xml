@@ -3,18 +3,15 @@
 <!--Device tree-->
 <project name="edp17/android_device_samsung_jfltexx" path="device/samsung/jflte" revision="lineage-17.1" remote="github"/>
 <project name="edp17/android_device_samsung_jf-common" path="device/samsung/jf-common" revision="lineage-17.1" remote="github"/>
+<project name="edp17/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="lineage-17.1" remote="github" />
 <!--Kernel-->
 <project name="edp17/android_kernel_samsung_jf" path="kernel/samsung/jflte" revision="lineage-17.1" remote="github"/>
 <!--Hardware-->
-<!--<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/>-->
+<project name="edp17/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" remote="github"/>
 <!--Sailfish-->
-<project name="edp17/droid-hal-jflte" path="rpm/" revision="master" />
-<project name="edp17/droid-config-jflte" path="hybris/droid-configs" revision="master" />
-<project name="edp17/droid-hal-version-jflte" path="hybris/droid-hal-version-jflte" revision="master" />
+<project name="edp17/droid-hal-jfltexx" path="rpm/" revision="master" />
+<project name="edp17/droid-config-jfltexx" path="hybris/droid-configs" revision="master" />
+<project name="edp17/droid-hal-version-jfltexx" path="hybris/droid-hal-version-jfltexx" revision="master" />
 <!--Blobs-->
-<!--<project name="edp17/android_vendor_samsung_universal9810-common" path="vendor/samsung/exynos9810-common" revision="lineage-17.1" remote="github"/>-->
-<!--<project name="edp17/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="lineage-17.1" remote="github"/>-->
 <project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-17.1-jfltexx" remote="github" />
-<!--Common Sepolicy-->
-<!--<project name="edp17/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-17.1" remote="github"/>-->
 </manifest>
