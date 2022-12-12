@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+<!--Device tree-->
 <project path="device/motorola/ocean" name="edp17/android_device_motorola_ocean" revision="lineage-17.1" />
+<project path="device/motorola/sdm632-common" name="edp17/android_device_motorola_sdm632-common" revision="lineage-17.1" />
+<!--Kernel-->
 <project path="kernel/motorola/ocean" name="edp17/android_kernel_motorola_sdm632" revision="lineage-17.1" />
+<!--Sailfish-->
 <project path="hybris/droid-configs" name="edp17/droid-config-ocean" revision="master" />
 <project path="hybris/droid-hal-version-ocean" name="edp17/droid-hal-version-ocean" revision="master" />
 <project path="rpm/" name="edp17/droid-hal-ocean" revision="master" />
+<!--Blobs-->
+<project path="vendor/motorola/sdm632-common" name="edp17/proprietary_vendor_motorola" revision="lineage-17.1" />
 </manifest>
