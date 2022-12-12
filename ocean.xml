@@ -11,4 +11,7 @@
 <project path="rpm/" name="edp17/droid-hal-ocean" revision="master" />
 <!--Blobs-->
 <project path="vendor/motorola/sdm632-common" name="edp17/proprietary_vendor_motorola" revision="lineage-17.1" />
+<project path="external/bson" name="edp17/android_external_bson" revision="lineage-17.1" />
+<project path="hardware/motorola" name="edp17/android_hardware_motorola" revision="lineage-17.1" />
+<project path="system/qcom" name="edp17/android_system_qcom" revision="lineage-17.1" />
 </manifest>
