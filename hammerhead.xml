@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!--Device tree-->
-<project path="device/lge/hammerhead" name="edp17/android_device_lge_hammerhead" revision="lineage-17.1" />
+<!--edp17 <project path="device/lge/hammerhead" name="edp17/android_device_lge_hammerhead" revision="lineage-16.0" />-->
 <!--Kernel-->
-<project path="kernel/lge/hammerhead" name="edp17/android_kernel_lge_hammerhead" revision="lineage-17.1" />
+<!--edp17 <project path="kernel/lge/hammerhead" name="edp17/android_kernel_lge_hammerhead" revision="lineage-16.0" />-->
 <!--Sailfish-->
-<project path="hybris/droid-configs" name="edp17/droid-config-hammerhead" revision="lineage-17.1" />
-<project path="hybris/droid-hal-version-hammerhead" name="edp17/droid-hal-version-hammerhead" revision="lineage-17.1" />
-<project path="rpm/" name="edp17/droid-hal-hammerhead" revision="lineage-17.1" />
+<!--edp17 <project path="hybris/droid-configs" name="edp17/droid-config-hammerhead" revision="lineage-16.0" />-->
+<!--edp17 <project path="hybris/droid-hal-version-hammerhead" name="edp17/droid-hal-version-hammerhead" revision="lineage-16.0" />-->
+<!--edp17 <project path="rpm/" name="edp17/droid-hal-hammerhead" revision="lineage-16.0" />-->
 <!--Blobs-->
-<project path="vendor/lge/hammerhead" name="edp17/android_vendor_lge" revision="lineage-17.1" />
+<project path="vendor/lge/hammerhead" name="edp17/android_vendor_lge" revision="lineage-16.0" />
 </manifest>
