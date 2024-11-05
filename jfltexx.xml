@@ -14,4 +14,6 @@
 <project name="edp17/droid-hal-version-jfltexx" path="hybris/droid-hal-version-jfltexx" revision="master" />
 <!--Blobs-->
 <project name="edp17/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-17.1-jfltexx" remote="github" />
+<!--For backported BT driver-->
+<project name="mlehtima/backports-bluetooth" path="external/backports-bluetooth" revision="master" remote="github"/>
 </manifest>
